@@ -70,7 +70,7 @@ theme: next
 deploy:
   - type: git
     repo: ssh://git@github.com/Ruakker/Blog.git
-    branch: page
+    branch: gh-pages
 
 search:
   path: search.xml
