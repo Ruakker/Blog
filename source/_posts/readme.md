@@ -1,8 +1,6 @@
 ---
-title: 114514
+title: 测试页面
 date: 2021-05-30 12:00:00
-updated:
-type: "114514"
 ---
 
 <h3><center>Ruakker AK IOI</center></h3>
@@ -19,10 +17,5 @@ m
 = \frac{1}{m!} \sum_{i = 0} ^ m (-1)^{m - i} \binom{m}{i} (m - i) ^ n 
 $$
 
-- 1
-- 2
-  - 232
-- 3
 
-- [ ] 1
-- [x] 2
+测试行内公式 $e = mc^2$。
