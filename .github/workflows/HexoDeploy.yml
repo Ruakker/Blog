@@ -39,5 +39,4 @@ jobs:
               run: |
                   hexo cl
                   hexo g
-                  gulp
                   hexo d
