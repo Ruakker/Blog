@@ -17,6 +17,14 @@ root: /
 permalink: :title/
 permalink_defaults:
 
+# Markdown
+markdown:
+    plugins:
+        - plugin:
+          name: "@neilsustc/markdown-it-katex"
+          options:
+              strict: true
+
 # Directory
 source_dir: source
 public_dir: public
